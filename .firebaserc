@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ellipog-is-god": {
+      "hosting": {
+        "Ellipog-is-God": [
+          "ellipog-is-god"
+        ]
+      }
+    }
+  }
+}
